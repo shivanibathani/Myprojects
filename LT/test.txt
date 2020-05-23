@@ -1,0 +1,17 @@
+start@
+var A,B;
+A=Hello;
+B=World;
+show(A);
+show(B);
+var C;
+C=concat(A,B);
+show(C);
+search(C,w);
+search(B,n);
+valueAt(B,3);
+replace(A,h,b);
+var D;
+copy(C,D);
+show(D);
+@end

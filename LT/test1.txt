@@ -1,0 +1,10 @@
+start@
+var A,B;
+A=Hello;
+B=World;
+show(A);
+show(B);
+var C;
+C=concat(A,B);
+show(C);
+@end

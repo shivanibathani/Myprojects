@@ -1,0 +1,6 @@
+start@
+var A;
+A=Helloworld;
+show(A);
+valueAt(A,5);
+@end

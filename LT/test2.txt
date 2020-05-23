@@ -1,0 +1,9 @@
+start@
+var A,B;
+A=Hello;
+B=Kitty;
+show(A);
+show(B);
+search(A,o);
+search(B,l);
+@end

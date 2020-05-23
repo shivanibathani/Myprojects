@@ -1,0 +1,8 @@
+start@
+var A;
+A=Hclloborld;
+show(A);
+replace(A,c,e);
+replace(A,b,w);
+show(A);
+@end

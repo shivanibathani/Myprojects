@@ -1,0 +1,7 @@
+start@
+var A,B;
+A=Hello;
+show(A);
+copy(A,B);
+show(B);
+@end
